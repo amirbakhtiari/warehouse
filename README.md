@@ -1,8 +1,16 @@
-# React + Vite
+# پروژه کنترل انبارگردانی
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# این پروژه برای فروشگاه پوشاک هفت نوشته شده
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+ کنترل تعداد و کسری و اضافات در زمان انبارگردانی 
+
+- کنترل بارکد در زمان اسکن(صحت بارکد)
+-  کنترل موجودی فروشگاه در لحظه اسکن
+- امکان تشخص آدرس محصول اسکن شده
+- ایجاد گروه انبارگردانی
+- محدود کردن دستگاه های متصل به برنامه
+- محدود کردن زمان انبارگردانی
+- خروجی فایل مغایرت انبارگردانی
